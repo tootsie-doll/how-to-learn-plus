@@ -1,6 +1,5 @@
 .two-columns__brief {
     margin: 0;
-    display: inline-block;
     max-width: 175px;
     color: var(--main-blue);
     font-size: 18px;
