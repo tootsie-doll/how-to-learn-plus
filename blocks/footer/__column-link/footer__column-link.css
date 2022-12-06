@@ -2,7 +2,7 @@
     color: white;
     font-size: 18px;
     font-weight: 400;
-    /*line-height: 30px;*/
+    line-height: 18px;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -15,6 +15,3 @@
     opacity:50%;
 }
 
-.footer__column-link:last-child {
-  padding-bottom: 0;
-}
